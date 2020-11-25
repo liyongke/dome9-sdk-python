@@ -16,7 +16,7 @@ def version():
 
 setup(name='dome9',
 	description='dome9 py sdk module',
-	python_requires='>3.7',
+	python_requires='>3.6',
 	version=version(),
 	long_description=readme(),
 	author='dome9 sre team',
